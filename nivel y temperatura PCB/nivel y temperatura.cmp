@@ -1,0 +1,195 @@
+Cmp-Mod V01 Created by PcbNew   date = 17/06/2019 15:09:49
+
+BeginCmp
+TimeStamp = 5CE93F04
+Path = /5C794C7A
+Reference = U1;
+ValeurCmp = LCD 20x4;
+IdModule  = Firux:lcd_20x4;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDB8304
+Path = /5C783DD1
+Reference = S-DTH1;
+ValeurCmp =  ;
+IdModule  = Firux:S-DTH-horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C76CFAF
+Path = /5C759031
+Reference = A1;
+ValeurCmp = Arduino_Nano;
+IdModule  = Modules:Arduino_Nano;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C848641
+Path = /5C784298
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0805_2012Metric_Castellated;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C848652
+Path = /5C784059
+Reference = R1;
+ValeurCmp = 1k;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C848663
+Path = /5C784137
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C848664
+Path = /5C75BE9C
+Reference = RTC1;
+ValeurCmp =  ;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C84867B
+Path = /5C75BF0C
+Reference = SD1;
+ValeurCmp =  ;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C7C4724
+Path = /5C75BF60
+Reference = Sensor1;
+ValeurCmp =  ;
+IdModule  = Connector_JST:JST_XH_B04B-XH-A_1x04_P2.50mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CAEF2A4
+Path = /5C7A233C
+Reference = C1;
+ValeurCmp = 470uf 35v;
+IdModule  = Capacitor_SMD:CP_Elec_10x10;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CAEF2CC
+Path = /5C7A26EC
+Reference = C2;
+ValeurCmp = 220uf 35v;
+IdModule  = Capacitor_SMD:CP_Elec_8x10;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CAEF2E4
+Path = /5C7A2511
+Reference = D2;
+ValeurCmp = 1N5825;
+IdModule  = Diode_SMD:D_SMA;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CAEF2F3
+Path = /5C7A0002
+Reference =  ;
+ValeurCmp = V int;
+IdModule  = Connector:mstbva_2,5-2-g-5,08;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CAEF30C
+Path = /5C7A27F7
+Reference = L1;
+ValeurCmp = 68uH;
+IdModule  = Inductor_SMD:L_7.3x7.3_H4.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CAEF31D
+Path = /5C7A28B7
+Reference = R3;
+ValeurCmp = 6.8K;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CAEF32E
+Path = /5C7A29B8
+Reference = R4;
+ValeurCmp = 1K;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CAEF345
+Path = /5C7C290F
+Reference = TP1;
+ValeurCmp = TestPoint_2Pole;
+IdModule  = TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CBD84C3
+Path = /5C7A2433
+Reference = U2;
+ValeurCmp = LM2596S-ADJ;
+IdModule  = Package_TO_SOT_SMD:TO-263-5_TabPin3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCCE67C
+Path = /5C7CCF8A
+Reference = R5;
+ValeurCmp = 390;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE93EDC
+Path = /5C76E556
+Reference = RV1;
+ValeurCmp = Reostato;
+IdModule  = Firux:Reostato;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE97EBB
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = Firux:logofiruxsmall;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE9A4A2
+Path = 
+Reference = REF**;
+ValeurCmp = WEEE-Logo_4.2x6mm_SilkScreen;
+IdModule  = Symbol:WEEE-Logo_4.2x6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CEA7A5B
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = Firux:logofirux;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CEA957C
+Path = 
+Reference = REF**;
+ValeurCmp = KiCad-Logo2_12mm_SilkScreen;
+IdModule  = Symbol:KiCad-Logo2_12mm_SilkScreen;
+EndCmp
+
+EndListe

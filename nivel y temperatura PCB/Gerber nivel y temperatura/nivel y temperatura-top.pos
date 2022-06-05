@@ -1,0 +1,17 @@
+### Module positions - created on 06/17/19 11:11:36 ###
+### Printed by Pcbnew version kicad (5.0.0)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val          Package                                           PosX       PosY       Rot  Side
+C1        470uf_35v    CP_Elec_10x10                                 130.6576  -115.0112    0.0000  top
+C2        220uf_35v    CP_Elec_8x10                                  118.6688  -112.5728    0.0000  top
+D1        LED          LED_0805_2012Metric_Castellated               110.6424  -127.6096    0.0000  top
+D2        1N5825       D_SMA                                         121.7168  -123.0884    0.0000  top
+L1        68uH         L_7.3x7.3_H4.5                                108.3056  -111.9124    0.0000  top
+R1        1k           R_0805_2012Metric_Pad1.15x1.40mm_HandSolder   106.9340  -119.7864    0.0000  top
+R2        1k           R_0805_2012Metric_Pad1.15x1.40mm_HandSolder   110.6932  -119.7864    0.0000  top
+R3        6.8K         R_0805_2012Metric_Pad1.15x1.40mm_HandSolder   114.4524  -119.7864    0.0000  top
+R4        1K           R_0805_2012Metric_Pad1.15x1.40mm_HandSolder   118.2116  -119.7864    0.0000  top
+R5        390          R_0805_2012Metric_Pad1.15x1.40mm_HandSolder   121.9708  -119.7864    0.0000  top
+U2        LM2596S-ADJ  TO-263-5_TabPin3                               98.0440  -116.4336   90.0000  top
+## End
