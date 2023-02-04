@@ -15,5 +15,4 @@ Electronic project with Arduino, it consists of a level and temperature system f
 
 ![This is an image](https://firux.com.co/wp-content/uploads/2021/05/IMG_20190930_155750-scaled.jpg)
 
-![This is an image](https://firux.com.co/wp-content/uploads/2022/06/IMG_20191002_113710-scaled.jpg)
 
